@@ -155,3 +155,31 @@ p.right {
   background-color: #04AA6D;
   color: white;
 }
+
+.txtbox {
+  width: 48%;
+}
+
+.imgbox {
+  width: 48%;
+  margin-top: 20px;
+}
+
+.twoColumns {
+  display: flex;
+  column-gap: 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+/* change flow when on mobile */
+@media screen and (max-width: 700px) {
+  .twoColumns {
+    flex-direction: column;
+  }
+  .txtbox, .imgbox {
+    width: 100%;
+  }
+}

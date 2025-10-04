@@ -41,8 +41,8 @@ EOF
       cat $cardholder $indexfile > temp && mv temp $indexfile
       rm cardholder.md
       target=$url.html
-      local prefix="../subhead.htm_"
-      local suffix="../subfoot.htm_"
+      local prefix="../head.htm_"
+      local suffix="../foot.htm_"
       cat "$prefix" > ${target}
       local qt=$(mktemp tmp.md)
       sed -n '8,$p' ${file}.md > tmp.md
@@ -55,14 +55,22 @@ EOF
     else
       if [[ $file == "index" ]]; then
         local indexfile="index.md"
-        local prefix="cardhead.htm_"
-        local suffix="cardfoot.htm_"
+        local prefix="../head.htm_"
+        local suffix="../foot.htm_"
         target=${file}.html
         cat $prefix > ${target}
+        cat >> ${target} <<EOF
+
+<div class="card_holder">
+EOF
         cmark --unsafe ${file}.md >> ${target}
+        cat >> ${target} <<EOF
+
+</div>
+EOF
         cat $suffix >> ${target}
         sed -i '' -e 's#DATE#'$date'#g' ${target}
-        echo -e '## liner notes\n' | cat - $indexfile > temp && mv temp $indexfile
+        echo -e '## notes\n' | cat - $indexfile > temp && mv temp $indexfile
         echo "$folder \\\ $file built"
       else
         echo "$file is not index.md, not built"

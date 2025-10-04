@@ -1,4 +1,4 @@
-## liner notes
+## notes
 
 <div class="card blog-post">
   <div class="card pubdate">
