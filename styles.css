@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  /* max-width: 800px; */
   max-width: 85%;
   color: #000000;
   font-family: "Times New Roman", Times, serif;
@@ -29,6 +30,8 @@ hr {
 }
 
 img {
+  /* margin-top: -0.5em;
+  max-width: 100%; */
   width: 100%;
 }
 
@@ -77,23 +80,18 @@ p.right {
 .card_holder {
   display: flex;
   column-gap: 20px;
-  row-gap: 20px;
   flex-wrap: wrap;
-  align-items: stretch;
-}
-
-.forceColumn {
-  overflow: hidden;
+  justify-content: center;
 }
 
 .card {
   &.blog-post {
-    min-height: 450px;
+    height: 450px;
     max-width: 300px;
     min-width: 200px;
     display: flex;
     flex-direction: column;
-    padding: 30px;
+    padding: 20px;
     margin-bottom: -10%;
   }
 
@@ -172,18 +170,16 @@ p.right {
   column-gap: 20px;
   flex-wrap: wrap;
   flex-direction: row;
+  /* align-items: center; */
   justify-content: center;
 }
 
 /* change flow when on mobile */
-@media (max-width: 700px) {
+@media screen and (max-width: 700px) {
   .twoColumns {
     flex-direction: column;
   }
   .txtbox, .imgbox {
     width: 100%;
-  }
-  .card_holder {
-    justify-content: center;
   }
 }
