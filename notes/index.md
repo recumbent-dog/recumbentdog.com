@@ -2,6 +2,15 @@
 
 <div class="card blog-post">
   <div class="card pubdate">
+    <p>2025.10.10</p>
+  </div>
+  <h3>bias cut</h3>
+  <img src="../images/notes/bias-cut.png"/>
+  <p>A mix for getting ready to go out: Sexy alternative pop, 90’s/2000’s avant garde electronics, upbeat club considerations, a little disco, slow dancing alone, hoping to run into someone, one martini, music playing from the other room while you put on your earrings.</p>
+  <a href="bias-cut.html"><button class="button"><span>read</span></button></a>
+</div>
+<div class="card blog-post">
+  <div class="card pubdate">
     <p>2025.05.15</p>
   </div>
   <h3>straight line</h3>
