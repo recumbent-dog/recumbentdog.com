@@ -50,7 +50,7 @@ Track 1
 To tie in “Keeping Up” (which we know is to tie in “Losing My Taste…” a real Old Lady Who Swallowed a Fly situation) I wanted to grab some 70s/80s disco, because Arthur Russell is so disco. So we open with “Electric Murder” by Marcy Luarks. Originally the mix opened with “Cold Breath ’79”, another dance track with lyrics about poison and hate, paired with an upbeat track with “Murder” in the title. The original mix was almost exclusively instrumental/dance tracks. If this is of interest, drop me a line and I’ll send you the file.
 
 Track 3  
-I’ve called these note a Trackless (crashout) because it’s a bit of breakdown of some of my thought processes on mixes. If one were interested they could take these notes and look back at other mixes to see how I’m often doing the same thing. It’s sonic similarities, similar lyric content, label explorations, dog references, and wordplay. Anyhow, this was on the OG mix, and stayed here because “Keeping Up” followed by “Coming Down” suits the theme. Rollercoaster Emoji. Up and down. Relevant to the Arthur Russell couplet and comes up again.
+I’ve called this note a Tracklist (crashout) because it’s a bit of breakdown of some of my thought processes on mixes. If one were interested they could take these notes and look back at other mixes to see how I’m often doing the same thing. It’s sonic similarities, similar lyric content, label explorations, dog references, and wordplay. Anyhow, this was on the OG mix, and stayed here because “Keeping Up” followed by “Coming Down” suits the theme. Rollercoaster Emoji. Up and down. Relevant to the Arthur Russell couplet and comes up again.
 
 Track 4  
 An echo-y remix released by Ghostly International perfectly suits the “music from the other room” quality I’m looking for, and Crushed makes some great indie rock.
@@ -68,13 +68,13 @@ Track 8
 A B-Side Tirzah described as “having a beat for the beat’s sake.” It’s here for the beat. This is the halfway point of the mix… would you like another drink? What time are we calling the uber?
 
 Track 9  
-“Trois Gouttes De Sang” translates to “Three Drops of Blood.” I heard this song on Cat Le Bon’s (a Recumbent Dog favorite) NTS residency, and thought of Stella singing blood in the shower. It brings you back from the beat, steadies the hand to finish your eyeliner.
+“Trois Gouttes De Sang” translates to “Three Drops of Blood.” It brings you back from the beat, steadies the hand to finish your eyeliner.
 
 Track 10  
 If you’re looking for trip-hoppy, downtempo, music from the other room, getting ready in a slinky dress, close listening, girls making jokes, rich samples, etc. put on Eucademix, Yuka Honda, or Cibo Matto and be so glad you did. When I’m looking to build a bridge between the dancefloor and a bedroom recording I listen back to the way Yuka blends samples, genres, and beats… and often throw one of her tracks in the mix.
 
 Track 11  
-It’s fun to keep making the World Premiere joke, because these playlists tend to hit 20 or so sets of ears. Don’t let the joke distract you from my earnest love of this track, I had it on repeat the whole first night I heard it, and sing along now like it’s not a song my friend made. Shimmering cymbals and playful fuzzy tones catch the ear early on to hint at the lush finale of a 3:25 min track that feels timeless.
+It’s fun to keep making the World Premiere joke, because these playlists tend to hit 20 or so sets of ears. Don’t let the joke distract you from my earnest love of this track, I had it on repeat the whole first night I heard it, and sing along now like it’s not by my mates. Shimmering cymbals and playful fuzzy tones catch the ear early on to hint at the lush finale of a 3:25 min track that feels timeless.
 
 Track 13  
 I love hearing this track on mixes, since this album came out I’ve used “You’ve Got Time…” as a search term on NTS just to find more mixes on which this track might surprise me. I don’t ever think of a person as a subject of this song, no one to take on vacation or ask to see naked, but the desire behind that feeling is totally crystal. Mostly this song reminds me of drinking Peroni from a straw, riding around Nashville in the passenger seat of Karen’s Mercedes 560SL, top down, smoking Nat Shermans with filters matching the convertible’s champagne gold paintjob.
