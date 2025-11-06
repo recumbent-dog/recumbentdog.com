@@ -22,27 +22,58 @@ Kick back, goof off, fool around, and enjoy some of the tunes I’ve been turnin
 
 -R
 
-## Notes, just for fun
+### Tracklist
 
-- This playlist screams out from the top with Fun Guy, a timeless sounding rock track that Arrhythmia also opened their April show with.
-- If you’ve asked me how I’ve been the past year, you’ve likely gotten an answer like “I’m trying not to moralize my life, it simply is.” This playlist plays a lot with the idea of being “bad” or “dangerous” or “ugly” while also having a bit of a laugh about it. Anyhow the second track is Bad News, specifically because there’s a bit where Johnny makes a growling sound between laughs, something I do into the mirror before walking out of a public restroom, an act I saw my friend Stella engage in recently as well. I suggest it.
-- Texas by Big Black fucking rips, and as a Texan I encourage you to call me “Tex” if the spirit ever moves you.
-- My friend Ryan digs The Fall, I saw Vladimir Ivkovic at Nowadays and he played a great track by The Fall, So-Called Dangerous is my The Fall track for the month.
-- Badtimes by Laika is funny as fuck.
-- Every time I log into work I say “This is a job for a stupid man” and The Jesus Lizard kicks ass.
-- Though it’s more than halfway through the set, I’d describe Staring at the Sun is being here to “set the tone.” I was on a train where police held commuters up to kick someone off for taking a nap, everyone was pissed. Uncentered ass cops are shutting down parties just to prove they can shut them down. So, Parties in the USA sets the tone too because it’s about community and a poor use of government funds while mostly actually being a silly song about partying.
-- What’s the Ugliest Part of Your Body? Perv.
-- The Jane’s Addiction track, Of Course, is seven minutes long, giving you plenty of time to consider a sensation not unlike slapping yourself in the face. It’s the psych rock center piece standing in for the probably 30 hours of psych I’ve listened to this month, so let it be seven minutes.
-- Third Uncle makes more thematic sense once you listen to the following track, Terminal Twilight, which reminds me of the Angel Investor track I put on the last mix… urban paranoia? urban curiosity? The role we play as witness while living in density? I’ll tell you about my neighbors next time I see ya.
-- Stella shared this bassvictim track with me, and it feels like growling into a mirror. I suggest it.
-- I Got Cash is our second spoken word track and it’s even funnier and more cutting than the first.
-- We wrap with an absolutely bonkers move, Loserstreet. I spent a lot of this month thinking about NEO, the old club in Chicago where I learned to dance, drink, sweat, smoke, and hang out with goths.
+Fun Guy, Peter Bibby  
+Bad News, Johnny Cash  
+Texas, Big Black  
+So-Called Dangerous, The Fall  
+Badtimes, Laika  
+Glamorous, The Jesus Lizard  
+Staring At The Sun, Straw Man Army  
+Parties In The U.S.A., Jonathan Richman  
+What's The Ugliest Part Of Your Body, The Mothers Of Invention  
+Of Course, Jane's Addiction  
+Third Uncle, Brian Eno  
+Terminal Twilight, Martha & The Muffins  
+Canary Wharf drift, bassvictim  
+I Got Cash, Brooklyn Funk Essentials  
+Loserstreet, Alter Der Ruine  
+
+### Notes
+
+**Bad News, Johnny Cash**  
+If you’ve asked me how I’ve been the past year, you’ve likely gotten an answer like “I’m trying not to moralize my life, it simply is.” This playlist plays a lot with the idea of being “bad” or “dangerous” or “ugly” while also having a bit of a laugh about it. Anyhow the second song is Bad News, specifically because there’s a bit where Johnny makes a growling sound between laughs, something I do into the mirror before walking out of a public restroom, an act I saw my friend Stella engage in recently as well. I suggest it.
+
+**Texas, Big Black**  
+As a Texan I encourage you to call me “Tex” if the spirit ever moves you.
+
+**So-Called Dangerous, The Fall**  
+My friend Ryan digs The Fall, I saw Vladimir Ivkovic at Nowadays and he played a great track by The Fall, So-Called Dangerous is my The Fall track for the month.
+
+**Glamorous, The Jesus Lizard**  
+Every time I log into work I say “This is a job for a stupid man.”
+
+**Staring At The Sun, Straw Man Army & Parties In The U.S.A., Jonathan Richman**  
+Both of these songs refer to cops doing dumb shit like kicking sleeping people off trains and shutting down totally laid back parties, like why they gotta be so off-centered, man?
+
+**Of Course, Jane's Addiction**  
+This song gives you plenty of time to consider a sensation not unlike slapping yourself in the face. It’s the psych rock center piece standing in for the probably 30 hours of psych I’ve listened to this month, so let it be seven minutes.
+
+**Third Uncle, Brian Eno & Terminal Twilight, Martha & The Muffins**  
+Third Uncle makes more thematic sense once you listen to the following song, Terminal Twilight, which reminds me of the Angel Investor track I put on the last mix… urban paranoia? urban curiosity? The role we play as witness while living in density? I’ll tell you about my neighbors next time I see ya.
+
+**Canary Wharf drift, bassvictim**  
+Stella shared this bassvictim song with me, and it feels like growling into a mirror. I suggest it.
+
+**Loserstreet, Alter Der Ruine**  
+We wrap with an absolutely bonkers move, Loserstreet. I spent a lot of this month thinking about NEO, the old club in Chicago where I learned to dance, drink, sweat, smoke, and hang out with goths.
 
 *I wouldn’t describe this playlist as being political, but music is not apolitical, life is not apolitical.
 
-[my playlist](https://www.mixcloud.com/recumbentdog/head-through-the-window/)
+[link to show](https://www.mixcloud.com/recumbentdog/head-through-the-window/)
 
-additional listening in order of mention  
+additional media in order of mention:  
 [Stella](https://on.soundcloud.com/Y7vcpTtAfuGbwKXb8)  
 [Ryan](https://on.soundcloud.com/t8q3m8eo4dw219Un9)  
 [Vladimir](https://on.soundcloud.com/mKzkB8T35r5RrCgLA)
