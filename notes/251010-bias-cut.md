@@ -90,10 +90,10 @@ Translates to "Never Work"- very suitable to a Recumbent Dog mix. This song pull
 [link to show](https://www.mixcloud.com/recumbentdog/bias-cut/)
 
 additional media in order of mention:  
-- [K Wata](https://kwata.bandcamp.com/)  
-- [Eightball Thrift Shop](https://www.instagram.com/eightballthriftshop/)  
-- [Outline](https://dice.fm/partner/outline-artist-link/event/yok3gv-outline-erika-de-casier-smerz-clara-la-san-more-24th-oct-knockdown-center-new-york-tickets?dice_id=6289652&dice_channel=web&dice_tags=organic&dice_campaign=Outline+Artist+Link&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAadCWsJLVa1Gwv3cmNWaLQLTycid2Hzx511C2az9GZIT2nyPihpWhqVV352qAQ_aem_J66xfytf3mIwlX12VksxSg&_branch_match_id=1505033743511745794&utm_source=web&utm_campaign=Outline+Artist+Link&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2w5DMAAA0L%2FZI1oh2RJZpBEjZmSGeZGi1Ya6lAx72LfvHLau03JR1Z4PndLwmihUqI9XEnihE77RlVZ1zxsrsoucaVUbsiLT0D1xbBs3KFv8IMXA3T56LcIMB3GQHDVv4O27GwAgiL9nt%2FASOBwRZ1PG5jTVDTjbcYmJKH3T3OmxUl14W58DmHbL%2FmxPP0kokZIPbVnJcVuItBCToyB%2FHp1%2BC6wAAAA%3D)  
-- [nina](https://www.ninaprotocol.com/)  
-- [Stella](https://linktr.ee/nocturnal.you?fbclid=PAZXh0bgNhZW0CMTEAAaceF3zdZecCCncnqk_AXHbnmYKDcEQQzeSrNSMgIUI4tOfknuuIs70auHVGQw_aem_qHMI-pTKxiIoBixIt9n-Xg) & [Jeremy](https://www.jeremywilliecox.com/)  
-- [Some Imaginary Far Away Type Things](https://www.youtube.com/watch?v=KZdApQYSCIc5) - Arthur Russell playing in progress work, captured by Phill Niblock  
-- [Fifth World w/ Innerinnerlife](https://www.nts.live/shows/fifth-world/episodes/fifth-world-24th-september-2025)  
+[K Wata](https://kwata.bandcamp.com/)  
+[Eightball Thrift Shop](https://www.instagram.com/eightballthriftshop/)  
+[Outline](https://dice.fm/partner/outline-artist-link/event/yok3gv-outline-erika-de-casier-smerz-clara-la-san-more-24th-oct-knockdown-center-new-york-tickets?dice_id=6289652&dice_channel=web&dice_tags=organic&dice_campaign=Outline+Artist+Link&dice_feature=mio_marketing&fbclid=PAZXh0bgNhZW0CMTEAAadCWsJLVa1Gwv3cmNWaLQLTycid2Hzx511C2az9GZIT2nyPihpWhqVV352qAQ_aem_J66xfytf3mIwlX12VksxSg&_branch_match_id=1505033743511745794&utm_source=web&utm_campaign=Outline+Artist+Link&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAAwXB2w5DMAAA0L%2FZI1oh2RJZpBEjZmSGeZGi1Ya6lAx72LfvHLau03JR1Z4PndLwmihUqI9XEnihE77RlVZ1zxsrsoucaVUbsiLT0D1xbBs3KFv8IMXA3T56LcIMB3GQHDVv4O27GwAgiL9nt%2FASOBwRZ1PG5jTVDTjbcYmJKH3T3OmxUl14W58DmHbL%2FmxPP0kokZIPbVnJcVuItBCToyB%2FHp1%2BC6wAAAA%3D)  
+[nina](https://www.ninaprotocol.com/)  
+[Stella](https://linktr.ee/nocturnal.you?fbclid=PAZXh0bgNhZW0CMTEAAaceF3zdZecCCncnqk_AXHbnmYKDcEQQzeSrNSMgIUI4tOfknuuIs70auHVGQw_aem_qHMI-pTKxiIoBixIt9n-Xg) & [Jeremy](https://www.jeremywilliecox.com/)  
+[Some Imaginary Far Away Type Things](https://www.youtube.com/watch?v=KZdApQYSCIc5) - Arthur Russell playing in progress work, captured by Phill Niblock  
+[Fifth World w/ Innerinnerlife](https://www.nts.live/shows/fifth-world/episodes/fifth-world-24th-september-2025)  
