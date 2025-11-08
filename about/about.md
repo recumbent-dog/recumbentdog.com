@@ -13,7 +13,7 @@ natural fibers
 mono case BOTH WAYS  
 lampshades askew  
 
-“I” am Racquel Cable. I like to listen to music, read novels, go to the movies, take a walk, cook dinner, water color, and study yoga. I live in Bushwick with my spotted dog, Maude.
+“I” am Racquel Cable. I like to listen to music, read novels, see movies, take walks, cook dinner, water color, and study yoga. I live in Bushwick with my spotted dog, Maude.
 
 New "radio" show every second Sunday of the month.
 
