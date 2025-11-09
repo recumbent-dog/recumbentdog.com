@@ -2,6 +2,15 @@
 
 <div class="card blog-post">
   <div class="card pubdate">
+    <p>2025.11.09</p>
+  </div>
+  <h3>gas station music</h3>
+  <img src="../images/notes/gas-station-music.png"/>
+  <p>It’s not about traveling, it’s about being on the road. It’s listless. It’s lonesome. It’s going just to be going, to some extent going just to be gone.</p>
+  <a href="gas-station-music.html"><button class="button"><span>read</span></button></a>
+</div>
+<div class="card blog-post">
+  <div class="card pubdate">
     <p>2025.10.10</p>
   </div>
   <h3>bias cut</h3>
