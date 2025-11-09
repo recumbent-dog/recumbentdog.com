@@ -168,7 +168,7 @@ Lots of driving on this, and a Heathcliff the cat reference! Here’s both:
 
 <img src="../images/notes/ham-limit.png" style="max-width:524px;width:100%">
 
-**Wild Sage (The Jordan Lake Sessions Volume 4), The Mountain Goats**
+**Wild Sage (The Jordan Lake Sessions Volume 4), The Mountain Goats**  
 If I’ve ever forgotten your name I hope you’ll take solace in the fact that I do remember the words to every single song by John Darnielle recorded or live 1994 - 2012 + Bleed Out, 2022.
 
 I love every lyric to this song but for space I’ll just put this clip here. Requisite dog reference (sad).
