@@ -2,6 +2,15 @@
 
 <div class="card blog-post">
   <div class="card pubdate">
+    <p>2025.12.11</p>
+  </div>
+  <h3>where the beauty is</h3>
+  <img src="../images/notes/where-the-beauty-is.png"/>
+  <p>Her’s was not a centrist’s nostalgia, a longing for a perfect past. Rather she craved the texture of decline, to linger in the last breaths of endangered but determined forms of expression.</p>
+  <a href="where-the-beauty-is.html"><button class="button"><span>read</span></button></a>
+</div>
+<div class="card blog-post">
+  <div class="card pubdate">
     <p>2025.11.09</p>
   </div>
   <h3>gas station music</h3>
