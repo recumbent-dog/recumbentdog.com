@@ -31,7 +31,7 @@ I knew she loved old time music, and played the banjo. “Old time music” seem
 
 I imagined her touchstones for old time music might include Harry Smith’s *Anthology of American Folk Music*, originally released in 1953, and reissued in 1997. If were alive I think she would have loved the 2017 documentary series *American Epic*, lord knows I did. Between these two sources I had nearly 100 artists to check out.
 
-I understand the appeal of these early recordings to Margaret Kilgallen, who said of her influences, “I like to choose people that just do small things and yet somehow hit me in my heart.” These are people who’d previously only played music for themselves or communities, sharing the music and stories of their lives to the rest of the world for the first time. Yeah, I cried. You ever seen a jug band? Can you believe that the love of making music and telling stories necessitated making instruments of jugs and washboards and gourds and buckets? Thinking a lot about this weird shit: (Mikey Shulman saying that people don’t enjoy making music). What could music have to offer without the chafe of effort, the labor of love?
+I understand the appeal of these early recordings to Margaret Kilgallen, who said of her influences, “I like to choose people that just do small things and yet somehow hit me in my heart.” These are people who’d previously only played music for themselves or communities, sharing the music and stories of their lives to the rest of the world for the first time. Yeah, I cried. You ever seen a jug band? Can you believe that the love of making music and telling stories necessitated making instruments of jugs and washboards and gourds and buckets? Thinking a lot about this weird shit: [Mikey Shulman saying that people don’t enjoy making music](https://x.com/mpatti/status/1878147029764911131?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1878147029764911131%7Ctwgr%5E991fdf95282d6591de3d0e385bb3b36c2c561c00%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fdjmag.com%2Fnews%2Fsuno-ai-ceo-claims-people-dont-enjoy-making-music). What could music have to offer without the chafe of effort, the labor of love?
 
 From there I filled up the show with music from my collection that checks at least a couple of these boxes:  
 - San Franciscans  
@@ -134,7 +134,7 @@ Between the “buck toothed girl” reference in Romee and the scrappy titular B
 Rory Bowens turned me on to April Magazine by way of his NTS show, The Slip. San Francisco shoe gaze!
 
 **I See the Void, Sonny & The Sunsets**  
-Longtime Companion is my favorite Sonny & The Sunsets album, of course I like the country one! San Francisco band, homemade recordings, anachronistic references. Here’s a quote from a Pitchfork review of a different album that I liked:
+*Longtime Companion* is my favorite Sonny & The Sunsets album, of course I like the country one! San Francisco band, homemade recordings, anachronistic references. Here’s a quote from a Pitchfork review of a different album that I liked:
 
 *His songs have an enormously appealing loose, homespun quality-- muffled, refracted, self-aware takes on the starry-eyed, innocent sounds you hear coming from oldies radio.*
 
