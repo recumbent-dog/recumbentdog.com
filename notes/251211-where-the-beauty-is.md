@@ -115,7 +115,7 @@ I mentioned this song last month, calling out its fiddle part. Have I mentioned 
 
 While we’re talking about last month, did you know that steel guitar originated in Hawaii? Check this anecdote from American Epic: Joseph Kekuku was walking along the railroad tracks (trains!), picked up a loose railroad tie and put it in his pocket. As he walked along with his old Spanish guitar, the tie brushed up against the metal strings and produced an exciting new tone. He practiced with the tie, the back of a pocket knife, the back of a steel comb, and then a polished steel bar, much like what we use today. Then he taught it to others on the island. It defined Hawaiian music and, when it made it to the mainland, totally transformed country and blues. So cool.
 
-**Romeo, Ovarian Trolley**. 
+**Romeo, Ovarian Trolley**  
 This is the first time I’ve put a song I’m not crazy about on a show. I don’t consider myself an expert enough on music to be a critic— I’ll say that the guitar run is a cool dirge and the vocal tricks are interesting, but neither are well executed enough to listen to multiple times over the course of a five minute song, so I interrupted it with some train sounds. This clip is here because Margaret Kilgallen designed the cover for this song’s side of a split.  
 
 <img src="../images/notes/ovarian-trolley.png" style="max-width:400px;width:100%">
