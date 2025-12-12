@@ -99,8 +99,8 @@ I came across Robbie Basho for the first time while making this mix, looking to 
 **Undeclared, The Dodos**  
 Visiter was major to me when it came out. I was recently reminded of it while tuned into myrrh.radio.fm, a 24 hour live stream of what seems to be Myrrh Sewell’s personal collection. You have got to check out this website myrrh.city, it’s so on theme, hand coded and filled with hand made collages, photographs, drawings, schematics for a live-in van, archived notes, a short animated film, a link to the aforementioned radio, a guide for weaving a fishing net. Also The Dodos are from San Francisco.
 
-**New Tea, Micheal Hurley**  
-This song strikes me as a Lonesome Road Blues type track. Micheal Hurley lets out these wails that say more than words… like the feeling of that lonesomeness was etched upon his vocal chords and just running air across them naturally blew out this perfectly succinct expression. I love this recording specifically because of all the non-song parts: Laughter of a friend in the background, the occasional foot tap along with the beat, a chair creaking under Hurley’s body. Here the line wavers. It’s warm. I can smell milk boiling on the stove for a cup of chicory coffee. Take a seat and stay a while.
+**New Tea, Michael Hurley**  
+This song strikes me as a Lonesome Road Blues type track. Michael Hurley lets out these wails that say more than words… like the feeling of that lonesomeness was etched upon his vocal chords and just running air across them naturally blew out this perfectly succinct expression. I love this recording specifically because of all the non-song parts: Laughter of a friend in the background, the occasional foot tap along with the beat, a chair creaking under Hurley’s body. Here the line wavers. It’s warm. I can smell milk boiling on the stove for a cup of chicory coffee. Take a seat and stay a while.
 
 **Salty Dog Rag, Chet Atkins**  
 The Salty Dog Rag, or Salty Dog Blues has been played by many, I picked this recording because I found a copy of Down Home last month at Academy Records. Salty Dog refers to this Appalachian practice of rubbing salt on one’s best hunting dog to protect it from ticks. In that way it kind of means like a “favorite” or a “best pal.” In some versions of the Salty Dog Blues, “salty dog” is assumed to mean something like “promiscuous man.” Here’s how I take it: He’s your favorite dog, you love him for what he is and you wouldn’t dare keep him on a tight leash. He’s on his own in tall grass among the ticks and fleas. Out of love you rub some salt along his collar and wish him well until you see him again. A salty dog ain’t a scoundrel, he’s a lovable tramp. Anyway, this episode’s dog reference in the bag.
@@ -108,7 +108,7 @@ The Salty Dog Rag, or Salty Dog Blues has been played by many, I picked this rec
 **Sometimes I Think I Love You, Memphis Jug Band**  
 Jug bands are so sick. Maybe my new favorite thing to search on Youtube. Memphis Jug Band gained some popularity in the 20’s and then again during the folk/blues revival in the 50’s. A song of theirs “Stealin’ Stealin’” was also covered by a popular San Francisco outfit Grateful Dead.
 
-I picked this song for this mix because it’s title and it’s lyrics felt reflected in the following track.
+I picked this song for this mix because its title and its lyrics felt reflected in the following track.
 
 **Sometimes, Poor Image**  
 I mentioned this song last month, calling out its fiddle part. Have I mentioned how much I love this album? San Francisco band baby!
@@ -161,7 +161,7 @@ When I say the lyrics in this feel like an old time folk song, I want to share a
 While we’re on about Deerhoof, I want to talk briefly about Caroliner. Deerhoof’s early shows were played opening for different iterations of Caroliner, whose name changes with each release, as the anonymous costumed members rotate through the band. I did not put any of their songs on this mix because frankly they’re really fucking freaky. Caroliner feels like present day Old Time music, like music made in the woods with instruments and non instruments based only on the idea of what music sounds like. The lyrics are often creepy tales that sound like they might come out of the mouth of an antique doll. Though not on the show they belong in this write up.  
 
 **Get Along Home Cindy, Matokie Slaughter**  
-I only learned of Matokie Slaughter because of Margaret Kilgallen’s prolific use of her name and imagined visage in her work. I chose this recording because it’s title tied me to where I wanted to end the show.
+I only learned of Matokie Slaughter because of Margaret Kilgallen’s prolific use of her name and imagined visage in her work. I chose this recording because its title tied me to where I wanted to end the show.
 
 Yesterday, weeks after finalizing tracks for this show, I watched *Who is Bozo Texino? 2005*, a film about boxcar artists, and a rendition of “Get Along Home Cindy” by another artist was featured in the background. It felt like I’d reached into a void of interest and brushed against another doing the same thing.
 
