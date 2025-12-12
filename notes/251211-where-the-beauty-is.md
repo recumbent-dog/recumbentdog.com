@@ -50,7 +50,7 @@ I have a couple quotes from an essay by Eungie Joo that I think add context for 
 
 *Her’s was not a centrist’s nostalgia, a longing for a perfect past. Rather she craved the texture of decline, to linger in the last breaths of endangered but determined forms of expression.*
 
-*Kilgallen’s mark was her personal lore— a poetically layered figuration to outmatch any written or spoken tale,. Relying on her many skills of craft, she offered us a glimpse of what is and was always there: everyday greatness and beauty, the ordinary yet exceptional life of each mother, exile, laborer, transient. Uncovering for a moment the quiet textures of existence, Margaret Kilgallen reminded us of the very magnitude of the quotidian.*
+*Kilgallen’s mark was her personal lore— a poetically layered figuration to outmatch any written or spoken tale. Relying on her many skills of craft, she offered us a glimpse of what is and was always there: everyday greatness and beauty, the ordinary yet exceptional life of each mother, exile, laborer, transient. Uncovering for a moment the quiet textures of existence, Margaret Kilgallen reminded us of the very magnitude of the quotidian.*
 
 -R
 
